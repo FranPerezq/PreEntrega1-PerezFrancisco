@@ -5,7 +5,7 @@ export const App = () => {
   return (
     <div>
     <input type="text" placeholder='Ingrese su Saludo' />
-      <Saludo mensaje={"Hola, buenos dias"} />
+      <Saludo mensaje={"Hola, buenos dias señores"} />
     </div>
   )
 }
